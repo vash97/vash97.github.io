@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://vash97.github.io
+title: Codexz
+email: ignacio.97g@gmail.com
+author: Ignacio 
+description: Mi blog personal 
+paginate: 6
+google_analytics: 
